@@ -1,6 +1,6 @@
 # flake
 
-Flake is a daemon to mimic your yet-to-be-built or wired in backup daemon. It takes a markdown file full of route and request info and returns responses based off that. In fact, this very file is a valid Flake definitions file! So let's define some stuff.
+Flake is a daemon to mimic your yet-to-be-built or wired in daemon. It takes a markdown file full of route and request info and returns responses based off that. In fact, this very file is a valid Flake definitions file! So let's define some stuff.
 
 #### What this does:
 ![What we're making](http://puu.sh/8RWIV/315721740f.png)
